@@ -1,5 +1,5 @@
 {
-  "version_git": 2,
+  "version_git": 3,
   "project_name": "BLOZZ ONLINE",
   "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
   "background_url": "",
@@ -17,7 +17,7 @@
 
   "servers": [
     {
-      "name": "01 | Москваукпукпукпу",
+      "name": "01 | Москваукпукпукпуцуацуацу",
       "ip": "80.242.59.112",
       "port": 3721,
       "x2": false,
