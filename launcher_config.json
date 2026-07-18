@@ -16,7 +16,7 @@
 
   "servers": [
     {
-      "name": "01 | BLOZ",
+      "name": "01 | BLOZzz",
       "ip": "80.242.59.112",
       "port": 3721,
       "x2": false,
@@ -45,7 +45,7 @@
   },
 
   "version": {
-    "code": 612622272,
+    "code": 612622274,
     "name": "1.0.0",
     "apk_url": ""
   }
