@@ -17,8 +17,8 @@
   "servers": [
     {
       "name": "01 | BLOZZ",
-      "ip": "80.242.59.112",
-      "port": 3329,
+      "ip": "80.242.59.11",
+      "port": 3721,
       "x2": false,
       "online": 0,
       "maxonline": 100,
